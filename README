@@ -1,0 +1,8 @@
+To start from scratch:
+
+mkdir lecture1
+cd lecture1
+npm init
+npm install --save-dev mocha chai rewire
+mkdir app test
+touch app/app.js test/test.js

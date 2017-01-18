@@ -1,0 +1,20 @@
+{
+  "name": "lecture1",
+  "version": "0.0.0",
+  "description": "A template for playing with JS",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/hsm/lecture1.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "rewire": "^2.5.2"
+  }
+}
